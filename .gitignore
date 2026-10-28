@@ -1,0 +1,10 @@
+﻿article_env/
+.venv/
+venv/
+__pycache__/
+.env
+extracted_image.png
+*_extraction.json
+sample*
+students_data.xlsx
+mixed_content_pdf_test*

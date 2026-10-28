@@ -1,0 +1,11 @@
+
+streamlit
+pymupdf
+python-docx
+openpyxl
+easyocr
+Pillow
+pdfminer.six
+pdfplumber
+pdf2image
+pytesseract
